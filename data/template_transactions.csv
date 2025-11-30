@@ -1,0 +1,9 @@
+Tanggal,Jenis,Kategori,Jumlah,Keterangan,Sumber/Penerima
+2025-11-01,income,infaq_masjid,5000000,Infaq Jumat,Kotak Infaq
+2025-11-01,income,infaq_yatim,2000000,Donasi Yatim,Donatur A
+2025-11-02,income,infaq_perorangan,2500000,Donasi pribadi,Hamba Allah
+2025-11-03,expense,kegiatan,800000,Israk Mi'raj,Panitia Masjid
+2025-11-04,expense,listrik,900000,Tagihan PLN,PLN
+2025-11-05,expense,air,550000,Tagihan PDAM,PDAM
+2025-11-06,expense,perbaikan,250000,Perbaikan AC,Teknisi AC
+2025-11-07,expense,marbot,100000,Honor mingguan,Marbot
